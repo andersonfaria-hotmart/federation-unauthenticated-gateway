@@ -1,0 +1,7 @@
+hotmart:
+  crpGatewayUrl: https://crp-gateway.buildstaging.com/
+  allowed:
+    purchaseByTransaction:
+      - id
+      - buyer:
+          - email

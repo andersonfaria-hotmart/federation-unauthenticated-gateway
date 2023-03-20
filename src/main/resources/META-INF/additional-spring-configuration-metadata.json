@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "hotmart.crpGatewayUrl",
+      "type": "java.lang.String",
+      "description": "Description for hotmart.crpGatewayUrl."
+    },
+    {
+      "name": "hotmart.allowed",
+      "type": "java.util.Map",
+      "description": "Map containing allowed values."
+    }
+  ] }
